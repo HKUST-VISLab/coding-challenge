@@ -1,4 +1,7 @@
-# Level 1 challenge: Year/Month Heatmap
+# HKUST VisLab Coding Challenge
+
+## Level 1 challenge: Year/Month Heatmap
+
 In this Task, you need to draw a **Matrix View** to visualize the **Monthly Temperature** of HK, where the color of each matrix cell encodes the temperature. You can find the data in [temperature_daily.csv](./temperature_daily.csv)
 
 Here are the basic requirements:
@@ -15,7 +18,9 @@ Here are the basic requirements:
 
   ![level1](./level1.png)
 
-# Level 2 Challenge: Improvement of the Year/Month Heatmap
+
+
+## Level 2 Challenge: Improvement of the Year/Month Heatmap
 
 In Task 1, we are able to visualize the temperature differences across months of each year. However, even within one month, the temperature may also vary drastically. In this task, you need to improve the previous visualization by showing the daily changes of the temperature. You only need to focus on the last 5 to 10 years in the data.
 
@@ -27,6 +32,4 @@ In Task 1, we are able to visualize the temperature differences across months of
 
 ![level2](./level2.png)
 
-# Submission:
-
-Please create a github repository under your github account, and send us the link.
+Happy coding!
