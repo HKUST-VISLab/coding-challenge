@@ -11,7 +11,8 @@ In your notebook, you need to provide answers for the following questions:
 1. List the top 10 artists (or groups) those has the most stream counts for all their tracks combined, with the stream counts of each of their tracks.
 
 1. List the top 10 tracks in December, 2017 for each continent (North America, Europe, Asia, South America, Oceania).
-  - You may need [this extra data](./countries.json) to map countries to continents.
+
+   - You may need [this extra data](./countries.json) for mapping countries to continents.
 
 1. Plot the ranking changes of the Ed Sheeran's "Shape of You" alongside with the stream count changes.
 
