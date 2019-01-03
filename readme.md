@@ -10,8 +10,11 @@ HK Temperature Heatmap
 HKUST Co-author Graph
 ![level3](./level3.png)
 
-## Level 4 (Advanced): [Link](./level4.md)
+## Level 4 (Data Analysis): [Link](./level4.md)
 Spotify's Worldwide Daily Song Ranking
+
+## Level 5 (Machine Learning specific): [Link](./level5.md)
+Kaggle competition: Dogs vs. Cats
 
 ## Grading:
 1. Correctness (50%)
