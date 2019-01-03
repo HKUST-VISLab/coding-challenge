@@ -4,7 +4,7 @@ The task of this challenge is simple to describe, **make a submission to Kaggle 
 
 Here is a little bit extra requirements:
 
-1. You must use Jupyter Notebook.
+1. You **MUST** use Jupyter Notebook.
 
 1. Not mandatory, but strongly recommend to use [PyTorch](https://pytorch.org/).
 
