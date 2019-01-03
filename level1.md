@@ -1,4 +1,5 @@
 # Level 1 challenge: Year/Month Heatmap
+
 In this task, you need to draw a **Matrix View** to visualize the **Monthly Temperature** of Hong Kong, where the color of each matrix cell encodes the temperature. You can find the data in [temperature_daily.csv](./temperature_daily.csv).
 
 Here are the basic requirements:

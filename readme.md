@@ -10,7 +10,8 @@ HK Temperature Heatmap
 HKUST Co-author Graph
 ![level3](./level3.png)
 
-## Level 4 (Advanced): Setting up...
+## Level 4 (Advanced): [Link](./level4.md)
+Spotify's Worldwide Daily Song Ranking
 
 ## Grading:
 1. Correctness (50%)

@@ -1,4 +1,5 @@
 # Level 3 challenge: Linkage between multiple view
+
 This task focuses on visualizing the collaboration relationship between researchers. A JSON format data containing the collaboration records among professors in HKUST is provided. You can find the data in [HKUST_coauthor_graph.json](./HKUST_coauthor_graph.json). It consists of two parts: nodes and edges. The nodes represent professors and the edges are their corresponding collaborations (See the following figure).
 
   ![HKUST_coauthor_graph](./HKUST_coauthor_graph.png)
