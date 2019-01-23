@@ -14,7 +14,7 @@ Once the data available in the front end, draw a chart to show the data, it can 
 
 Here are the requirements:
 
-1. Use either [Vue.js](https://vuejs.org/) + [Vuex](https://vuex.vuejs.org/) or [React](https://reactjs.org/) + [Redux](https://redux.js.org/), and you **MUST** use [webpack](https://webpack.js.org/)
+1. Use either [Vue.js](https://vuejs.org/) + [Vuex](https://vuex.vuejs.org/) or [React](https://reactjs.org/) + [Redux](https://redux.js.org/), and you **MUST** use [webpack](https://webpack.js.org/) or any equivalent front-end building tools
 
 1. Backend can be either [Node.js](https://nodejs.org/en/) ([Express](https://expressjs.com/) or [Koa](https://koajs.com/)) or Python ([Flask](http://flask.pocoo.org/))
 
